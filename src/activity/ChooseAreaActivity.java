@@ -248,7 +248,7 @@ public class ChooseAreaActivity extends Activity{
 		progressDialog.show();
 	}
 	/**
-	 * 关闭对话框
+	 * 关闭对话框，我们要关闭这个对话框
 	 */
 	private void closeProgressDialog() {
 		if(progressDialog!=null){
