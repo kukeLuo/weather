@@ -27,6 +27,7 @@ public class City {
 	public int getProvinceId() {
 		return provinceId;
 	}
+	//设置ID
 	public void setProvinceId(int provinceId) {
 		this.provinceId = provinceId;
 	}
