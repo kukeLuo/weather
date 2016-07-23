@@ -177,11 +177,12 @@ public class ChooseAreaActivity extends Activity{
 			titleText.setText(selectedCity.getCityName());
 			currentLevel=LEVEL_COUNTY;
 		}else{
+			//调用方法
 			queryFromServer(selectedCity.getCityCode(), "county");
 		}
 	}
 	/**
-	 * 根据传入的代号和类型从服务器上查询省市县数据
+	 * 根据传入的代号和类型从服务器上查询省市县数据，，，，，，，，，，，123
 	 * @param object
 	 * @param string
 	 */
