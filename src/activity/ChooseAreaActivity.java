@@ -1,3 +1,4 @@
+
 package activity;
 
 import java.security.PublicKey;
@@ -248,7 +249,7 @@ public class ChooseAreaActivity extends Activity{
 		progressDialog.show();
 	}
 	/**
-	 * 关闭对话框，。。。大声的按时打算阿斯顿。。。。。。。。。
+	 * 关闭对话框
 	 */
 	private void closeProgressDialog() {
 		if(progressDialog!=null){
@@ -279,3 +280,4 @@ public class ChooseAreaActivity extends Activity{
 	
 	
 }
+
