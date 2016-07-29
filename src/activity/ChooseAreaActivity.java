@@ -1,4 +1,3 @@
-
 package activity;
 
 import java.security.PublicKey;
@@ -182,7 +181,7 @@ public class ChooseAreaActivity extends Activity{
 		}
 	}
 	/**
-	 * 根据传入的代号和类型从服务器上查询省市县数据
+	 * 根据传入的代号和类型从服务器上查询省市县数据    ，，，，，，，，，dasjdah
 	 * @param object
 	 * @param string
 	 */
@@ -249,7 +248,7 @@ public class ChooseAreaActivity extends Activity{
 		progressDialog.show();
 	}
 	/**
-	 * 关闭对话框
+	 * 关闭对话框，。。。大声的按时打算阿斯顿。。。。。。。。。
 	 */
 	private void closeProgressDialog() {
 		if(progressDialog!=null){
@@ -280,4 +279,3 @@ public class ChooseAreaActivity extends Activity{
 	
 	
 }
-
