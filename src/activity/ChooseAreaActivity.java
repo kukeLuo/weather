@@ -163,7 +163,7 @@ public class ChooseAreaActivity extends Activity{
 		}
 	}
 	/**
-	 * 查询全国所有的县，优先从数据库查询，如果没有查询到的再去服务器上查询
+	 * 查询全国所有的县，优先从数据库查询，如果没有查询到的再去服务器上查询......r如果查到就显示
 	 */
 	private void queryCounties(){
 		countieList=coolWeatherDB.loadCounties(selectedCity.getId());
