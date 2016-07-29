@@ -181,7 +181,7 @@ public class ChooseAreaActivity extends Activity{
 		}
 	}
 	/**
-	 * 根据传入的代号和类型从服务器上查询省市县数据    ，，，，，，，，，dasjdah
+	 * 根据传入的代号和类型从服务器上查询省市县数据
 	 * @param object
 	 * @param string
 	 */
